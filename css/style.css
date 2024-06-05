@@ -1,0 +1,55 @@
+.autoSizes {
+    width: 1440px;
+    height: 100px;
+}
+.div1 {
+    /* width: 684px;
+    height: 41px; */
+    padding-top: 29px;
+    margin: 29px,702px,30px,54px;
+}
+.logoAndHeader {
+    display: inline-block;
+    width: 185px;
+    height: 41px;
+    margin-left: 54px;
+    vertical-align: middle;
+}
+.mainHeader {
+    display: inline-block;
+    font-size: 34px;
+    color: #000000;
+    vertical-align: top;
+    font-family: 'Montserrat';
+}
+
+.navigation {
+    display: inline-block;
+    font-size: 16px;
+    color: #000000;
+    /* width: 430px;
+    height: 24px; */
+    padding-left: 69px;
+}
+.liWordDisplay {
+    display: inline-block;
+}
+.navLi {
+    font-size: 16px;
+    color: #000000;
+    padding-right: 75px;
+    font-family: 'Poppins';
+}
+
+.contactLi {
+    padding-right: 0px;
+}
+
+.blurryImage {
+    /* display: inline-block;
+    width: 1440px;
+    height: 316px; */
+    width: 100%;
+    margin: 100px, 49px;
+}
+
