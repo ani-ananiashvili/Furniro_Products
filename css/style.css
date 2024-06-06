@@ -1,13 +1,16 @@
+/* First Part */
 .autoSizes {
-    width: 1440px;
+    width: 100%;
     height: 100px;
 }
+
 .div1 {
     /* width: 684px;
     height: 41px; */
     padding-top: 29px;
-    margin: 29px,702px,30px,54px;
+    margin: 29px, 702px, 30px, 54px;
 }
+
 .logoAndHeader {
     display: inline-block;
     width: 185px;
@@ -15,6 +18,7 @@
     margin-left: 54px;
     vertical-align: middle;
 }
+
 .mainHeader {
     display: inline-block;
     font-size: 34px;
@@ -31,9 +35,11 @@
     height: 24px; */
     padding-left: 69px;
 }
+
 .liWordDisplay {
     display: inline-block;
 }
+
 .navLi {
     font-size: 16px;
     color: #000000;
@@ -46,10 +52,54 @@
 }
 
 .blurryImage {
-    /* display: inline-block;
-    width: 1440px;
-    height: 316px; */
+    /* display: inline-block;  */
+    /* width: 1440px; */
+    /* height: 316px; */
     width: 100%;
-    margin: 100px, 49px;
+    margin-bottom: 49px;
 }
 
+/* Second Part */
+
+.ourProductsTitleDiv {
+    font-size: 40px;
+    color: #3A3A3A;
+    width: 269px;
+    height: 48px;
+    margin: 0 auto;
+    margin-bottom: 67px;
+    font-family: 'Poppins';
+}
+
+.productSection {
+    display: inline-block;
+    padding: 17px 105px 74px 99px;
+}
+
+.productsDiv {
+    display: inline-block;
+    height: 446px;
+}
+
+.separateSection {
+    display: inline-block;
+    width: 285px;
+    height: 446px;
+    margin-right: 32px;
+}
+
+.lastImage {
+    margin-right: 0px;
+}
+
+.titleAndAboutBox {
+    width: 285;
+    height: 145px;
+    background-color: #F4F5F7;
+}
+
+.titleAndAbout {
+    display: inline-block;
+    width: 138px;
+    height: 61px;
+}
