@@ -72,7 +72,8 @@
 }
 
 .productSection {
-    display: inline-block;
+    display: block;
+    text-align: center;
     padding: 17px 105px 74px 99px;
 }
 
@@ -96,10 +97,4 @@
     width: 285;
     height: 145px;
     background-color: #F4F5F7;
-}
-
-.titleAndAbout {
-    display: inline-block;
-    width: 138px;
-    height: 61px;
 }
