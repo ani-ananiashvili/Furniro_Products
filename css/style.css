@@ -177,13 +177,19 @@
 
 /* The fourth part */
 
+.twiceh4title {
+
+    width: 100%;
+    margin-right: 197px;
+}
+
 .sofadescriptionTitle {
     display: inline-block;
     font-size: 24px;
     color: #000000;
     line-height: 36px;
     font-family: 'Poppins500';
-    margin-top: 133px;
+    margin: 133px 56px 0px 197px;
 }
 
 .sofaAddinfo {
@@ -202,6 +208,13 @@
     margin-top: 37px;
 }
 
+
+.descTextDiv {
+    Width: 1026px;
+    margin-left: 194px;
+    margin-bottom: 30px;
+}
+
 .sofaImages {
     text-align: center;
     margin-top: 36px;
@@ -210,4 +223,109 @@
 
 .sofaSpace {
     margin-right: 29px;
+}
+
+/* The fifth part */
+
+.buyDetailsSection {
+    height: 270px;
+    padding: 100px 0px;
+    background-color: #FAF3EA;
+    margin-bottom: 48px;
+}
+
+.buyDetailsbox {
+    display: inline-block;
+    width: 267px;
+    height: 70px;
+    margin-right: 78.67px;
+}
+
+.lastBuyDetailBox {
+    margin-right: 0px;
+}
+
+.allBuyDetail {
+    width: 1, 334px;
+    height: 70px;
+    text-align: center;
+}
+
+.buyDetailTitle {
+    font-size: 25px;
+    color: #242424;
+    line-height: 37.5px;
+    font-family: 'Poppins600';
+}
+
+.buyDetail {
+    font-size: 205x;
+    color: #898989;
+    line-height: 30px;
+    font-family: 'Poppins500';
+}
+
+/* footer section */
+.footerDiv {
+    display: inline-block;
+    width: 100%;
+    margin-left: 100px;
+    height: 505px;
+}
+
+.footerTitleAndP {
+    display: inline-block;
+}
+
+.titleFurniro {
+    display: inline-block;
+    font-size: 24px;
+    color: #000000;
+    line-height: 36px;
+    font-family: 'Poppins700';
+    margin-bottom: 50px;
+    width: 85px;
+    height: 36px;
+}
+
+.footerP {
+    font-size: 16px;
+    color: #9F9F9F;
+    line-height: 24px;
+    font-family: 'Poppins400';
+}
+
+.footerLinksBox {
+    display: inline-block;
+    /* width: 68px;
+    height: 312px; */
+    margin-right: 144px;
+    vertical-align: top;
+}
+
+.footerList1 {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins500';
+    margin-left: 338.01px;
+}
+
+.footerList2 {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins500';
+    vertical-align: top;
+    margin-left: 144px;
+}
+
+.titleLinks {
+    color: #9F9F9F;
+    margin-bottom: 55px;
+}
+
+.allLinksHelp {
+    margin-bottom: 46px;
+    #000000
 }
