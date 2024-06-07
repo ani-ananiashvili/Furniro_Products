@@ -44,7 +44,7 @@
     font-size: 16px;
     color: #000000;
     padding-right: 75px;
-    font-family: 'Poppins';
+    font-family: 'Poppins500';
 }
 
 .contactLi {
@@ -64,11 +64,13 @@
 .ourProductsTitleDiv {
     font-size: 40px;
     color: #3A3A3A;
-    width: 269px;
-    height: 48px;
-    margin: 0 auto;
+    /* width: 269px;
+    height: 48px; */
+    /* margin: 0 auto; */
+    text-align: center;
     margin-bottom: 67px;
-    font-family: 'Poppins';
+    font-family: 'Poppins700';
+    line-height: 48px;
 }
 
 .productSection {
@@ -97,4 +99,78 @@
     width: 285;
     height: 145px;
     background-color: #F4F5F7;
+}
+
+.titleAndAbout12 {
+    width: 138px;
+    height: 61px;
+}
+
+.titleAndAbout3 {
+    width: 121px;
+    height: 61px;
+}
+
+.titleAndAbout4 {
+    width: 224px;
+    height: 61px;
+}
+
+.sameStyleProducts {
+    padding-top: 16px;
+    padding-left: 16px;
+}
+
+.productsTitleStyle {
+    font-size: 24px;
+    color: #3A3A3A;
+    margin-bottom: 8px;
+    font-family: 'Poppins600';
+}
+
+.productDescription {
+    font-size: 16px;
+    color: #898989;
+    font-family: 'Poppins500';
+}
+
+/* Third Part */
+
+.middleSection {
+    text-align: center;
+}
+
+.titleBrowse {
+    font-size: 32px;
+    color: #333333;
+    line-height: 48px;
+    font-family: 'Poppins700';
+}
+
+.littleBrowseTitlle {
+    font-size: 20px;
+    color: #666666;
+    line-height: 30px;
+    font-family: 'Poppins400';
+}
+
+.browseDivImages {
+    margin-top: 62.29px;
+    margin-right: 19.39px;
+}
+
+.imgSpace {
+    margin-right: 20px;
+}
+
+.partBrowseImages {
+    display: inline-block;
+}
+
+.browseP {
+    font-size: 24px;
+    color: #333333;
+    line-height: 36px;
+    margin-top: 30px;
+    font-family: 'Poppins600';
 }
