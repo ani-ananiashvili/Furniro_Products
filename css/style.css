@@ -327,5 +327,97 @@
 
 .allLinksHelp {
     margin-bottom: 46px;
-    #000000
+    color: #000000;
+}
+
+/* Contact Page */
+
+.contactTitleP {
+    text-align: center;
+    margin-bottom: 128px;
+}
+
+.contactTitle {
+    font-size: 36px;
+    color: #000000;
+    line-height: 54px;
+    font-family: 'Poppins600';
+}
+
+.contactP {
+    font-size: 16px;
+    color: #9F9F9F;
+    line-height: 24px;
+    font-family: 'Poppins400';
+}
+
+.adressPhoneDiv {
+    display: inline-block;
+    width: 502px;
+    height: 537px;
+    margin: 82px 0px 20px 82px;
+}
+
+.adressTitlePhone {
+    display: inline-block;
+    font-size: 24px;
+    color: #000000;
+    line-height: 36px;
+    font-family: 'Poppins500';
+    margin-right: 30px;
+}
+
+.adressAbout {
+    font-size: 16px;
+    color: #000000;
+    line-height: 24px;
+    font-family: 'Poppins400';
+}
+
+.mapImage {
+    display: inline-block;
+    width: 680px;
+    height: 374px;
+}
+
+.adreddDiv {
+    display: inline-block;
+    margin-bottom: 85px;
+}
+
+.map {
+    display: inline-block;
+    margin-bottom: 137px;
+}
+
+.readMoreSection {
+    width: 817px;
+    height: 238px;
+    margin: 0px 535px 60px 88px;
+}
+
+.readMoreTitle {
+    font-size: 30px;
+    color: #000000;
+    line-height: 45px;
+    text-align: left;
+    font-family: Poppins500;
+    margin-bottom: 12px;
+}
+
+.readMoreP {
+    font-size: 15px;
+    color: #9F9F9F;
+    font-weight: 400;
+    line-height: 22.5px;
+    font-family: Poppins400;
+    margin-bottom: 30px;
+}
+
+.readMore {
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: Poppins400;
 }
