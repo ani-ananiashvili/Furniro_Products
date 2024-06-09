@@ -179,6 +179,7 @@
     Width: 462px;
     Height: 36px;
     padding-left: 30px;
+    margin: 0 auto;
 }
 
 .sofadescriptionTitle {
@@ -187,7 +188,7 @@
     color: #000000;
     line-height: 36px;
     font-family: 'Poppins500';
-    margin: 133px 56px 0px 197px;
+    margin: 133px 56px 0px 194px;
     text-align: left;
 }
 
@@ -202,7 +203,7 @@
 .fullSofaP {
     width: 1026px;
     height: 174px;
-    left: 194px;
+    margin-left: 194px;
     margin: 0 auto;
 }
 
