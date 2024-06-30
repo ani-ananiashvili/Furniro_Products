@@ -314,6 +314,11 @@
     font-family: 'Poppins500';
     margin-left: 338.01px;
 }
+.titleLinks,
+.allLinksHelp {
+    padding-bottom: 55px;
+}
+
 
 .footerList2 {
     display: inline-block;
@@ -324,12 +329,12 @@
     margin-left: 144px;
 }
 
-.titleLinks {
+
+.titleLinks a {
     color: #9F9F9F;
-    margin-bottom: 55px;
 }
 
-.allLinksHelp {
+.allLinksHelp a {
     margin-bottom: 46px;
     color: #000000;
 }
